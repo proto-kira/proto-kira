@@ -8,10 +8,4 @@
 
 - Name: **Akiro Hoshino**
 
-- From: **Almaty, Kazakhstan**.
-
-- Day job: **Gamedev** & **Studying python**.
-
-- Currently: studying [**Software Engineering**] at **SDU**.
-
 </div>
