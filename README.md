@@ -6,6 +6,5 @@
 <br/>
 <br/>
 
-- Name: **Akiro Hoshino**
 
 </div>
